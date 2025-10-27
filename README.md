@@ -1,15 +1,15 @@
 # Task-5-Create-and-Connect-to-a-Cloud-Database-Instance
 To understand how **Cloud Databases** work by creating a **managed SQL database instance** (like MySQL or PostgreSQL) in the cloud, connecting to it, and performing basic CRUD operations.
 
-# ☁️ Task 5: Create and Connect to a Cloud Database Instance
+# Task 5: Create and Connect to a Cloud Database Instance
 
-## 🎯 Objective
+## Objective
 
 To understand how **Cloud Databases** work by creating a **managed SQL database instance** (like MySQL or PostgreSQL) in the cloud, connecting to it, and performing basic CRUD operations.
 
 ---
 
-## 🛠️ Tools Used
+## Tools Used
 
 - **AWS RDS (Free Tier)** — for hosting the MySQL database
 - **MySQL Workbench / DBeaver / VS Code Terminal** — for connection
@@ -17,7 +17,7 @@ To understand how **Cloud Databases** work by creating a **managed SQL database 
 
 ---
 
-## 📋 Steps Performed
+## Steps Performed
 
 ### 1️⃣ Create a Cloud Database Instance
 - Logged into AWS Management Console.
@@ -47,7 +47,7 @@ Connection was successful ✅
 
 ---
 
-## 🧱 SQL Setup
+## SQL Setup
 
 ### Create Database and Table
 ```sql
