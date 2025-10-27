@@ -49,7 +49,7 @@ Connection was successful ✅
 
 ## SQL Setup
 
-### Create Database and Table
+
 ```sql
 CREATE DATABASE intern_demo;
 USE intern_demo;
